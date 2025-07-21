@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/currency/static/js/main.fca336b1.js",
+    "index.html": "/currency/index.html",
+    "main.fca336b1.js.map": "/currency/static/js/main.fca336b1.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fca336b1.js"
+  ]
+}
